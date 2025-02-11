@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  My name is Florian, I prefer Flo tho 😉, I'm 21 years old, and work as a junior developer near Berlin. 🏙️
+  My name is Florian, I prefer Flo tho 😉, I'm 22 years old, and work as a junior developer near Berlin. 🏙️
 </div>
 
 <div align="center">
